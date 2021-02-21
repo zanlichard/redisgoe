@@ -25,7 +25,7 @@ import (
 	"sync/atomic"
 	"time"
         "net"
-	"github.com/zanlichard/redigoe/internal"
+	"github.com/zanlichard/redisgoe/internal"
 )
 
 var (
