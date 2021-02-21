@@ -19,7 +19,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/zeuslichard/redigoe/redis"
+	"github.com/zanlichard/redigoe/redis"
 )
 
 type valueError struct {

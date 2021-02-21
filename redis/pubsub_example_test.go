@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/zeuslichard/redigoe/redis"
+	"github.com/zanlichard/redigoe/redis"
 )
 
 // listenPubSubChannels listens for messages on Redis pubsub channels. The
